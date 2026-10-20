@@ -1,0 +1,16 @@
+# dependências
+node_modules/
+**/node_modules/
+
+# artefatos de recuperação (transcript do Claude + reconstrução bruta — só local)
+_recuperacao/
+
+# sistema operacional / editores
+Thumbs.db
+.DS_Store
+desktop.ini
+*.log
+*.tmp
+
+# temporários
+tmp/
